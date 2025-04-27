@@ -1,0 +1,8 @@
+a= int(input("Enter the first number"))
+b =int(input("Enter the second number"))
+print(f"The addition of the number is {a+b}")
+print(f"The difference of the number is {a-b}")
+print(f"The remainder of the number is {a%b}")
+print(f"The quotient of the number in float  is {a/b}")
+print(f"The quotient of the number in integer  is {a//b}")
+print(f"The product of the number is {a*b}")
